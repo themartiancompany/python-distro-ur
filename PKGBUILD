@@ -3,7 +3,7 @@
 
 pkgname=python-distro
 pkgver=1.9.0
-pkgrel=1
+pkgrel=2
 pkgdesc='Linux OS platform information API'
 url='https://github.com/python-distro/distro'
 arch=('any')
