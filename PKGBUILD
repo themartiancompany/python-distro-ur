@@ -15,7 +15,7 @@ _pymajver="${_pyver%.*}"
 _pyminver="${_pymajver#*.}"
 _pynextver="${_pymajver%.*}.$(( \
   ${_pyminver} + 1))"
-_pkg=ditro
+_pkg=distro
 pkgname="${_py}-${_pkg}"
 pkgver=1.9.0
 pkgrel=2
